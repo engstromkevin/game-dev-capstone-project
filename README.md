@@ -1,5 +1,8 @@
 # game-dev-capstone-project
 
+Project is currently too large to be uploaded at one time to Github, so it will take some time to upload all of the files.
+
+
 Game Development Capstone Project, College of DuPage		February to May 2019
 •	Programmed using Unreal Engine 4 (UE4) Blueprints as part of a group of four people working on a 3D sci fi multiplayer-focused third-person arena shooter
 •	Constructed a State Machine with Blend Spaces and Aim Offsets to trigger smooth animations accurate to the game designer’s vision, using a prebuilt, rigged, and rendered player model
